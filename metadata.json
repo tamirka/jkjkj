@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Generator",
+  "description": "Generate high-quality speech from text using a selection of AI-powered voices. Simply type your text, choose a voice, and listen to the generated audio.",
+  "requestFramePermissions": []
+}
